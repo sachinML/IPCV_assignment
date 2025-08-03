@@ -1,1 +1,1 @@
-# IPCV_assignment
+# Image processing and Computer Vision
